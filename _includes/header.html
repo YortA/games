@@ -1,0 +1,10 @@
+<nav>
+  <ul>
+    {% assign navigation_links = site.data.menu | sort: 'weight' %}
+    {% for link in navigation_links %}
+      <li {% if page.url == link.url %}class="active"{% endif %}>
+        <a href="{{ link.url }}">{{ link.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>
