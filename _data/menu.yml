@@ -1,0 +1,10 @@
+# _data/menu.yml
+- title: "home"
+  url: "./index.html"
+  weight: 1
+- title: "L E V"
+  url: "./lev.html"
+  weight: 2
+- title: "Campfire"
+  url: "./pmc.html"
+  weight: 3
