@@ -2,9 +2,12 @@
 - title: "home"
   url: "./index.html"
   weight: 1
+  - title: "Game Design"
+  url: "./designs.html"
+  weight: 2
 - title: "L E V"
   url: "./lev.html"
-  weight: 2
+  weight: 3
 - title: "Campfire"
   url: "./pmc.html"
-  weight: 3
+  weight: 4
