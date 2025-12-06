@@ -2,7 +2,7 @@
 - title: "home"
   url: "./index.html"
   weight: 1
-  - title: "Game Designs"
+- title: "Game Designs"
   url: "./designs.html"
   weight: 2
 - title: "L E V"
